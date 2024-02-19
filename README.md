@@ -9,7 +9,7 @@ https://dhmo1529.github.io/WebTicketGate_and_Transit/
 
 
 # 素材
-[BGM・ジングル・効果音　フリー素材サイト｜OtoLogic 効果音＞設備・鉄道]<https://otologic.jp/free/se/facility-railway01.html> より  
+[BGM・ジングル・効果音　フリー素材サイト｜OtoLogic 効果音＞設備・鉄道](https://otologic.jp/free/se/facility-railway01.html) より  
 ・改札　アラーム01  
 ・改札　ビープ音01  
 ・改札　誘導音01  
