@@ -14,5 +14,5 @@ https://dhmo1529.github.io/WebTicketGate_and_Transit/
 ・改札　ビープ音01  
 ・改札　誘導音01  
 
-[VOICEVOX](https://voicevox.hiroshiba.jp) より
-・四国めたん
+[VOICEVOX](https://voicevox.hiroshiba.jp) より  
+・四国めたん  
