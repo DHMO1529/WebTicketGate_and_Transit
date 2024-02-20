@@ -1,5 +1,5 @@
 # WebTicketGate & Transit
-WebNFCを使用し、Webサイト上でFRKARTE改札ごっこをやるやつ  
+WebNFCでFRKARTEの改札ごっこができるやつ  
 ついでに券売機とか乗換案内も作るかも  
 
 # URL
